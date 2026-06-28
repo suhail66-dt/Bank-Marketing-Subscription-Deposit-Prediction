@@ -26,7 +26,9 @@ Predict whether a customer will subscribe to a term deposit so banks can improve
 ## Results
 
 | Model | Accuracy | Precision | Recall | F1 | AUC |
+
 | Random Forest | 90.5% | 0.68 | 0.39 | 0.50 | 0.93 |
+
 | Balanced Logistic Regression | 84.2% | 0.42 | 0.83 | 0.56 | 0.91 |
 
 ## Business Conclusion
